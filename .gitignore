@@ -8,6 +8,12 @@
 
 # production
 /build
+/.firebaserc
+/firebase.json
+/.firebase
+/firebase data structure.json
+/inventory.zip
+
 
 # misc
 .DS_Store

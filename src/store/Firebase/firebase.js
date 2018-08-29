@@ -1,16 +1,11 @@
-
 import fire from 'firebase';
-
-
 var config = {
-    apiKey: "AIzaSyBDcd9bU0RwzA1pif-ClODlbiDfRQKYXAI",
-    authDomain: "database-practice-953f0.firebaseapp.com",
-    databaseURL: "https://database-practice-953f0.firebaseio.com",
-    projectId: "database-practice-953f0",
-    storageBucket: "database-practice-953f0.appspot.com",
-    messagingSenderId: "207844265210"
-  };
+  apiKey: "AIzaSyAwlY7EBMtDa9Ct0j240FxKBLSoAI3G764",
+  authDomain: "inventory-90f0f.firebaseapp.com",
+  databaseURL: "https://inventory-90f0f.firebaseio.com",
+  projectId: "inventory-90f0f",
+  storageBucket: "inventory-90f0f.appspot.com",
+  messagingSenderId: "936420563199"
+};
 let firebase = fire.initializeApp(config);
-
-
 export default firebase;

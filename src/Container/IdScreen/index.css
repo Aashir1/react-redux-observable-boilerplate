@@ -1,0 +1,12 @@
+@media only screen and (max-width: 410px) {
+    .input{
+        width: 60vw !important
+    }
+    .btn{
+        font-size: 12px !important
+    }
+}
+
+.btn:active{
+    opacity: 0.2 !important;
+}

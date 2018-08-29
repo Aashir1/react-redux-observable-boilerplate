@@ -1,0 +1,7 @@
+@media only screen and (max-width: 800px) {
+    .locker-item{
+        width: 30% !important;
+        font-size: 12px
+    }
+    
+}
